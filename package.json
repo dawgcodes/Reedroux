@@ -1,7 +1,7 @@
 {
-    "name": "moe-bot",
+    "name": "reedroux-bot",
     "version": "1.0.0",
-    "author": "blacky",
+    "author": "dawgcodes",
     "description": "A discord.js bot written with TypeScript",
     "license": "MIT",
     "private": true,
