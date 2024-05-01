@@ -1,4 +1,4 @@
-# MoE Discord bot
+# Reedroux Discord bot
 
 ## Installation
 
