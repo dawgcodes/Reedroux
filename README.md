@@ -39,7 +39,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Bot Lists
 [![Discord Bots](https://top.gg/api/widget/1066057160125059112.svg)](https://top.gg/bot/1066057160125059112)
-[![Discord Bot List](https://discordbotlist.com/api/bots/ear-tensifier/widget)](https://discordbotlist.com/bots/ear-tensifier)
 [![Discord Boats](https://discord.boats/api/widget/1066057160125059112)](https://discord.boats/bot/1066057160125059112)
 
 ## Thanks to
