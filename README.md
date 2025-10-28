@@ -31,11 +31,10 @@ Navigate to the newly created reedroux folder and install the npm packages
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
-## Contributors
+## Developers
 - [dawgcodes](https://github.com/dawgcodes): 
 - [appujet](https://github.com/appujet ): 
-- [LucasB25](https://github.com/LucasB25/): 
-- [BallavaNarayan](https://github.com/BallavaNarayan):
+- [Dminik Hofmann](https://github.com/):
 
 ## Bot Lists
 [![Discord Bots](https://top.gg/api/widget/1066057160125059112.svg)](https://top.gg/bot/1066057160125059112)
